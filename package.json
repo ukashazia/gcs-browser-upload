@@ -31,19 +31,19 @@
     "chai-as-promised": "^5.3.0",
     "chai-subset": "^1.2.2",
     "colors": "^1.1.2",
-    "eslint": "^2.5.3",
+    "eslint": "^9.6.0",
     "eslint-plugin-babel": "^3.1.0",
     "express": "^4.13.4",
     "filereader": "oliverwoodings/FileReader",
     "get-port": "^2.1.0",
     "localStorage": "^1.0.3",
     "mkdirp": "^0.5.1",
-    "mocha": "^2.4.5",
+    "mocha": "^10.5.2",
     "pify": "^2.3.0",
     "random-string": "^0.1.2",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
-    "standard": "^6.0.8"
+    "standard": "^17.1.0"
   },
   "dependencies": {
     "axios": "^1.7.2",
